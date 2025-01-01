@@ -11,10 +11,10 @@
 
 let allMusic = [
   {
-    name: "Apna Bana Le",
-    artist: "Arijit Singh",
-    img: "1",
-    src: "1"
+    name: "Al-Fatihah",
+    artist: "Makkiyah · 7",
+    img: "01.al-fatihah",
+    src: "01.al-fatihah"
   },
   {
     name: "Tum Hi Ho",
