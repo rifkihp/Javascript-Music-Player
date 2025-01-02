@@ -13,14 +13,14 @@ let allMusic = [
   {
     name: "Al-Fatihah",
     artist: "Makkiyah · 7",
-    img: "01.al-fatihah",
-    src: "01.al-fatihah"
+    img: "01.Al-Fatihah",
+    src: "01.Al-Fatihah"
   },
   {
-    name: "Tum Hi Ho",
-    artist: "Arijit Singh",
-    img: "2",
-    src: "2"
+    name: "An-Nas",
+    artist: "Makkiyah · 6",
+    img: "02.An-Nas",
+    src: "02.An-Nas"
   },
   {
     name: "Jab Tak",
