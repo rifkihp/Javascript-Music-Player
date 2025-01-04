@@ -23,10 +23,10 @@ let allMusic = [
     src: "02.An-Nas"
   },
   {
-    name: "Jab Tak",
+    name: "Al-Falaq",
     artist: "Armaan Malik",
-    img: "3",
-    src: "3"
+    img: "03.Al-Falaq",
+    src: "03.Al-Falaq"
   },
   {
     name: "Chann Sitare",
@@ -90,5 +90,5 @@ let allMusic = [
   //   img: "image name here - remember img must be in .jpg formate and it's inside the images folder of this project folder",
   //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
   // }
-  
+
 ];
