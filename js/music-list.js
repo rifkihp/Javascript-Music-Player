@@ -24,7 +24,7 @@ let allMusic = [
   },
   {
     name: "Al-Falaq",
-    artist: "Armaan Malik",
+    artist: "Makkiyah · 5",
     img: "03.Al-Falaq",
     src: "03.Al-Falaq"
   },
