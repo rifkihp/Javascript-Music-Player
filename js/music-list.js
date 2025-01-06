@@ -29,10 +29,10 @@ let allMusic = [
     src: "03.Al-Falaq"
   },
   {
-    name: "Chann Sitare",
-    artist: "Ammy Virk",
-    img: "4",
-    src: "4"
+    name: "Al-Ikhlas",
+    artist: "Makkiyah · 4",
+    img: "04.Al-Ikhlas",
+    src: "04.Al-Ikhlas"
   },
   {
     name: "Mi Amor",
