@@ -35,10 +35,10 @@ let allMusic = [
     src: "04.Al-Ikhlas"
   },
   {
-    name: "Mi Amor",
-    artist: "Sharn",
-    img: "5",
-    src: "5"
+    name: "Al-Lahab",
+    artist: "Makkiyah · 5",
+    img: "05.Al-Lahab",
+    src: "05.Al-Lahab"
   },
   {
     name: "No Love",
