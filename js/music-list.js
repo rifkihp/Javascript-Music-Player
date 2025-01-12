@@ -36,10 +36,10 @@ let allMusic = [
     src: "06.An-Nashr"
   },
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
-    img: "7",
-    src: "7"
+    name: "Al-Kafirun",
+    artist: "Makkiyah · 6",
+    img: "07.Al-Kafirun",
+    src: "07.Al-Kafirun"
   },
   {
     name: "Ikson Anywhere – Ikson",
