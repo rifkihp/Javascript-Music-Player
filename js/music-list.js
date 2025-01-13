@@ -42,10 +42,10 @@ let allMusic = [
     src: "07.Al-Kafirun"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
-    img: "8",
-    src: "8"
+    name: "Al-Kautsar",
+    artist: "Makkiyah · 3",
+    img: "08.Al-Kautsar",
+    src: "08.Al-Kautsar"
   },
   {
     name: "Beauz & Jvna - Crazy",
