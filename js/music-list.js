@@ -47,29 +47,5 @@ let allMusic = [
     img: "08.Al-Kautsar",
     src: "08.Al-Kautsar"
   },
-  {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
-    img: "9",
-    src: "9"
-  },
-  {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "10",
-    src: "10"
-  },
-  {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "11",
-    src: "11"
-  },
-  {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "12",
-    src: "12"
-  },
 
 ];
